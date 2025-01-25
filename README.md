@@ -8,7 +8,7 @@ I'm a Unity Game Developer with over 4 years of professional game industry exper
 
 ✨Demo clip: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
 
-✨Google play: [Play Console](https://play.google.com/store/apps/developer?id=duy.ongoc)
+✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
 
 
 

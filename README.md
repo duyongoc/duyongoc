@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm O NGOC DUY.
+
+🌱 I'm a Unity Game Developer with over 4 years of professional game industry experience.
+
+⚡ This site contains all my games for work: https://duyongoc.github.io/profile/
+
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

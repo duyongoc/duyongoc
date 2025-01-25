@@ -4,9 +4,11 @@ I'm O NGOC DUY.
 
 I'm a Unity Game Developer with over 4 years of professional game industry experience.
 
+✨Demo clip: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
+
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
-✨Demo clip: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
+
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

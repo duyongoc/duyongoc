@@ -2,7 +2,7 @@
 
 I'm O NGOC DUY.
 
-I'm a Unity Game Developer with over 4 years of professional game industry experience.
+I'm a Unity Game Developer with over 5 years of professional game industry experience.
 
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
@@ -11,7 +11,10 @@ I'm a Unity Game Developer with over 4 years of professional game industry exper
 ✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
 
 Some demo games I made for work:
-🎮POPYGON Turnbase: [![Play](https://webunity.github.io/webgl_POLYGON_Adventure)]()  [![Demo](https://youtu.be/P06ZWVtaAYM)]
+
+🎮POPYGON Turnbase: 
+[[Play](https://webunity.github.io/webgl_POLYGON_Adventure)]  
+[[Demo](https://youtu.be/P06ZWVtaAYM)]
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

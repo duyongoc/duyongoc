@@ -13,8 +13,7 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 Some demo games I made for work:
 
 🎮POPYGON Turnbase: 
-[[Play](https://webunity.github.io/webgl_POLYGON_Adventure)]  
-[[Demo](https://youtu.be/P06ZWVtaAYM)]
+[[Play](https://webunity.github.io/webgl_POLYGON_Adventure)]  [[Demo](https://youtu.be/P06ZWVtaAYM)]
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

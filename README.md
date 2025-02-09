@@ -4,11 +4,13 @@ I'm O NGOC DUY.
 
 I'm a Unity Game Developer with over 5 years of professional game industry experience.
 
-✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
+✨My CV: [CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 
 ✨Demo clip: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
 
 ✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
+
+✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
 Some demo games I made for work:
 

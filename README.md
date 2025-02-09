@@ -12,7 +12,7 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
-Some demo games I made for work:
+Some of my demo games:
 
 🎮 POPYGON Battle: 
 [[Play](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Demo](https://youtu.be/W4a4gIAOeYY)]

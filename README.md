@@ -26,7 +26,7 @@ Some outstanding personal projects:
 Muliplayer Games:
 
 🖥️ Netcode POPYGON Battle: 
-[[Play](https://webunity.github.io/webgl_netcode_POLYGON_Battle/)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)] - [[Demo - Mobile](https://youtu.be/4ni13H7YEYU)] 
+[[Play-WebGL](https://webunity.github.io/webgl_netcode_POLYGON_Battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.POLYGONbattle)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)] - [[Demo - Mobile](https://youtu.be/4ni13H7YEYU)] 
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

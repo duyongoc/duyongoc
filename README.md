@@ -24,7 +24,8 @@ Some outstanding personal projects:
 [[Play](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
 Muliplayer Games:
-🎮 Netcode POPYGON Battle: 
+
+🖥️ Netcode POPYGON Battle: 
 [[Play](https://webunity.github.io/webgl_netcode_POLYGON_Battle/)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)]
 
 <!--

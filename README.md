@@ -29,7 +29,7 @@ Muliplayer Games:
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)] - [[Demo - Mobile](https://youtu.be/4ni13H7YEYU)] 
 
 🖥️ Netcode Shooter2D (WIP): 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android]()] - [[Demo - PC]()] - [[Demo - Mobile]()] 
+[[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] ] 
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

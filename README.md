@@ -26,10 +26,10 @@ Some outstanding personal projects:
 Muliplayer Games:
 
 🖥️ Netcode Battle: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)] - [[Demo - Mobile](https://youtu.be/4ni13H7YEYU)] 
+[[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/CH3jN-XtFE0)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
 
 🖥️ Netcode Shooter2D: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/_tXlH7wFrgY)] 
+[[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
 
 
 

@@ -15,22 +15,22 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 
 Some outstanding personal projects:
 
-🎮 POPYGON Battle: 
+  🎮 POPYGON Battle: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
 
-🎮 POPYGON Aventure: 
+  🎮 POPYGON Aventure: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
 
-🎮 POPYGON Turnbase: 
+  🎮 POPYGON Turnbase: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
 
 Some personal multiplayer game projects:
 
-🖥️ Netcode Battle: 
+  🖥️ Netcode Battle: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
 
-🖥️ Netcode Shooter2D: 
+  🖥️ Netcode Shooter2D: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
 
 

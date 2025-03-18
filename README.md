@@ -14,26 +14,16 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 
 
 
-AR Games:
-
-  📷 Kinder Easter (at Gameloft): 
-[[Demo](https://youtu.be/D22sO9HlWPY?si=DyWEi9vv6dsaOF7k)]
-
-  📷 Applaydu And Friends (at Gameloft): 
-[[Demo](https://youtu.be/SCXutaYWQdY?si=ZbUHVIvJ3dhDqN8j)]
-
-
-
 Some outstanding personal projects:
 
   🎮 POPYGON Battle: 
-[[WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
   
   🎮 POPYGON Aventure: 
-[[WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
 
   🎮 POPYGON Turnbase: 
-[[WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
 
 

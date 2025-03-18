@@ -4,7 +4,7 @@ I'm O NGOC DUY.
 
 I'm a Unity Game Developer with over 5 years of professional game industry experience.
 
-If you would like to review my work experience, please click here: [[Work Experience](https://duyongoc.github.io/profile/#work-experience)]
+If you would like to review my work experience, please click here: [Work Experience](https://duyongoc.github.io/profile/#work-experience)
 
 
 ✨My CV: [Link CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)

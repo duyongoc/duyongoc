@@ -27,26 +27,26 @@ AR Games:
 Some outstanding personal projects:
 
   🎮 POPYGON Battle: 
-[[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
+[[WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
   
   🎮 POPYGON Aventure: 
-[[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
+[[WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
 
   🎮 POPYGON Turnbase: 
-[[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
+[[WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
 
 
 Some personal MULTIPLAYER projects:
 
   🖥️ Netcode Battle: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
+[[WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
 
   🖥️ Netcode Warrior: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_warrior/)] - [Play-Android] - [Demo - PC] - [Demo - Mobile]
+[[WebGL](https://webunity.github.io/webgl_netcode_warrior/)] - [Android] - [Demo - PC] - [Demo - Mobile]
 
   🖥️ Netcode Shooter2D: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
+[[WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

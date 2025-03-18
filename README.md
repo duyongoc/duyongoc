@@ -4,7 +4,7 @@ I'm O NGOC DUY.
 
 I'm a Unity Game Developer with over 5 years of professional game industry experience.
 
-✨My CV: [CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
+✨My CV: [Link CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 
 ✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
 

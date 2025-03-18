@@ -23,12 +23,11 @@ Some outstanding personal projects:
 🎮 POPYGON Turnbase: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
-Muliplayer Games:
 
-🖥️ Netcode Battle: 
+🖥️ [Multiplayer Game] Netcode Battle: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
 
-🖥️ Netcode Shooter2D: 
+🖥️ [Multiplayer Game] Netcode Shooter2D: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
 
 

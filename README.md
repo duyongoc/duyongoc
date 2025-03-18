@@ -30,11 +30,11 @@ Some personal MULTIPLAYER projects:
   🖥️ Netcode Battle: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
 
+  🖥️ Netcode Warrior: 
+[[Play-WebGL](https://webunity.github.io/webgl_netcode_warrior/)] - [[Play-Android]] - [[Demo - PC]]
+
   🖥️ Netcode Shooter2D: 
 [[Play-WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
-
-  🖥️ Netcode Warrior: 
-[[Play-WebGL](https://webunity.github.io/webgl_netcode_warrior/)] 
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

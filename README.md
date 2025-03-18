@@ -6,9 +6,9 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 
 ✨My CV: [CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 
-✨Demo Games: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
-
 ✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
+
+✨Demo Games: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
 
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 

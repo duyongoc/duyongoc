@@ -13,12 +13,15 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
 
+
 AR Games:
+
   📷 Kinder Easter (at Gameloft): 
 [[Demo](https://youtu.be/D22sO9HlWPY?si=DyWEi9vv6dsaOF7k)]
 
   📷 Applaydu And Friends (at Gameloft): 
 [[Demo](https://youtu.be/SCXutaYWQdY?si=ZbUHVIvJ3dhDqN8j)]
+
 
 
 Some outstanding personal projects:
@@ -31,6 +34,7 @@ Some outstanding personal projects:
 
   🎮 POPYGON Turnbase: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
+
 
 
 Some personal MULTIPLAYER projects:

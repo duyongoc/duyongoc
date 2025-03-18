@@ -6,18 +6,26 @@ I'm a Unity Game Developer with over 5 years of professional game industry exper
 
 ✨My CV: [CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 
-✨Demo clip: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
+✨Demo Games: [Youtube](https://youtube.com/playlist?list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&si=xMF3Q9zWYJK6LHEr)
 
 ✨Google play: [Play Store](https://play.google.com/store/apps/developer?id=duy.ongoc)
 
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 
 
+AR Games:
+  📷 Kinder Easter (at Gameloft): 
+[[Demo](https://youtu.be/D22sO9HlWPY?si=DyWEi9vv6dsaOF7k)]
+
+  📷 Applaydu And Friends (at Gameloft): 
+[[Demo](https://youtu.be/SCXutaYWQdY?si=ZbUHVIvJ3dhDqN8j)]
+
+
 Some outstanding personal projects:
 
   🎮 POPYGON Battle: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/qwziITp-IZM)]
-
+  
   🎮 POPYGON Aventure: 
 [[Play-WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play-Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
 

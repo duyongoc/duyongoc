@@ -21,13 +21,13 @@ If you would like to review my work experience, please click here: [Work Experie
 
 Some outstanding personal projects:
 
-  🎮 POPYGON Battle: 
+  🎮 Game Battle: 
 [[Play WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/8Dr9oPPXCbw)]
   
-  🎮 POPYGON Aventure: 
+  🎮 Game Aventure: 
 [[Play WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
 
-  🎮 POPYGON Turnbase: 
+  🎮 Game Turnbase: 
 [[Play WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
 
 

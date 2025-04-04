@@ -22,13 +22,13 @@ If you would like to review my work experience, please click here: [Work Experie
 Some outstanding personal projects:
 
   🎮 Game Battle: 
-[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://youtu.be/8Dr9oPPXCbw)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Battle)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.battle)] - [[Demo](https://www.youtube.com/watch?v=3GD8uI5WVa4&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=34&ab_channel=duyongoc)]
   
   🎮 Game Aventure: 
-[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://youtu.be/P06ZWVtaAYM)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Adventure)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.adventure)] - [[Demo](https://www.youtube.com/watch?v=P06ZWVtaAYM&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=31&ab_channel=duyongoc)]
 
   🎮 Game Turnbase: 
-[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://youtu.be/i3wcBk7k2WA)]
+[[Play WebGL](https://webunity.github.io/webgl_POLYGON_Turnbase)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.polygon.turnbase)] - [[Demo](https://www.youtube.com/watch?v=i3wcBk7k2WA&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=32&ab_channel=duyongoc)]
 
 
 

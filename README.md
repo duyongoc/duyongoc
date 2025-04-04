@@ -35,13 +35,13 @@ Some outstanding personal projects:
 Some personal MULTIPLAYER projects:
 
   🖥️ Netcode Battle: 
-[[Play WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://youtu.be/TgGvV6aRyqY)] - [[Demo - Mobile](https://youtu.be/60D5mnJLUG8)] 
+[[Play WebGL](https://webunity.github.io/webgl_netcode_battle/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle)] - [[Demo - PC](https://www.youtube.com/watch?v=yqIDxTWt-Lk&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=36&ab_channel=duyongoc)] - [[Demo - Mobile](https://www.youtube.com/watch?v=60D5mnJLUG8&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=37&ab_channel=duyongoc)] 
 
   🖥️ Netcode Warrior: 
-[[Play WebGL](https://webunity.github.io/webgl_netcode_warrior/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.warrior)] - [[Demo - PC](https://youtu.be/gSs0tuP4IL0)] - [[Demo - Mobile](https://youtu.be/gSs0tuP4IL0)]
+[[Play WebGL](https://webunity.github.io/webgl_netcode_warrior/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.warrior)] - [[Demo - PC](https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc)] - [[Demo - Mobile](https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc)]
 
   🖥️ Netcode Shooter2D: 
-[[Play WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://youtu.be/_tXlH7wFrgY)] - [[Demo - Mobile](https://youtu.be/ZWL3WxXeSFg)] 
+[[Play WebGL](https://webunity.github.io/webgl_netcode_shooter2d/)] - [[Play Android](https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d)] - [[Demo - PC](https://www.youtube.com/watch?v=_tXlH7wFrgY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=38&ab_channel=duyongoc)] - [[Demo - Mobile](https://www.youtube.com/watch?v=ZWL3WxXeSFg&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=39&ab_channel=duyongoc)] 
 
 <!--
 **duyongoc/duyongoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

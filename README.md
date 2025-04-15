@@ -13,7 +13,7 @@ If you would like to review my work experience, please click here: [Work Experie
 
 ✨Demo AR Games: [Demo AR](https://duyongoc.github.io/profile/#ar-game)
 
-✨Demo other Games: [Demo Youtube](https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=2&ab_channel=duyongoc)
+✨Demo Youtube Games: [Demo Youtube](https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=2&ab_channel=duyongoc)
 
 ✨This site contains all my games for work: [Web Profile](https://duyongoc.github.io/profile/)
 

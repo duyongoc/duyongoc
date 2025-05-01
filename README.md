@@ -6,6 +6,9 @@ I'm a Unity Game Developer with more than 5 years of experience in the professio
 
 If you would like to review my work experience, please click here: [Work Experience](https://duyongoc.github.io/profile/#work-experience)
 
+![image](https://github.com/user-attachments/assets/864bd153-06e1-408c-8f89-bc4210b582dc)
+
+
 
 ✨My CV: [Link CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 

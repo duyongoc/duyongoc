@@ -11,6 +11,7 @@ At present, I am a team leader quèn of an innovative VR/AR project.
 ![image](https://github.com/user-attachments/assets/864bd153-06e1-408c-8f89-bc4210b582dc)
 
 
+ 
 
 ✨My CV: [Link CV](https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing)
 

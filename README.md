@@ -8,7 +8,8 @@ If you would like to review my work experience, please click here: [Work Experie
 
 At present, I am a team leader quèn of an innovative VR/AR project.
 
-![image](https://github.com/user-attachments/assets/864bd153-06e1-408c-8f89-bc4210b582dc)
+![Screenshot 2025-05-02 094809](https://github.com/user-attachments/assets/2b543ace-2d48-4d3f-8ac5-2f9c1f22a5b5)
+
 
 
 ---

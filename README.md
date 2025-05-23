@@ -6,7 +6,7 @@ I'm a Unity Game Developer with more than 5 years of experience in the professio
 
 If you would like to review my work experience, please click here: [Work Experience](https://duyongoc.github.io/profile/#work-experience)
 
-At present, I am a team leader quèn of an innovative VR/AR project.
+At present, I am a sub-leader quèn of an innovative VR/AR project.
 
 ![Screenshot 2025-05-02 094809](https://github.com/user-attachments/assets/2b543ace-2d48-4d3f-8ac5-2f9c1f22a5b5)
 

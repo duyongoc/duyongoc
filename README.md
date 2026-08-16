@@ -113,21 +113,18 @@
 
 ---
 
-<details>
-<summary>📺 <b>More demos on YouTube</b></summary>
-<br/>
-
-Full playlist: [Game Development Showreel](https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk)
-
-</details>
-
----
-
-### 📊 GitHub Stats
+### 📺 Demo Videos
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duyongoc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyongoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
+    <img src="https://img.shields.io/badge/Watch%20the%20full%20showreel%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube showreel"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
+    <img src="https://img.youtube.com/vi/D22sO9HlWPY/mqdefault.jpg" width="45%" alt="Showreel thumbnail"/>
+  </a>
 </p>
 
 <p align="center">

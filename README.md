@@ -24,10 +24,18 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 📺 Demo Videos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,git,github,visualstudio,vscode,blender,firebase,nodejs,docker&perline=12" alt="tech stack"/>
+  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
+    <img src="https://img.shields.io/badge/Watch%20the%20full%20showreel%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube showreel"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
+    <img src="https://img.youtube.com/vi/D22sO9HlWPY/mqdefault.jpg" width="45%" alt="Showreel thumbnail"/>
+  </a>
 </p>
 
 ---
@@ -112,20 +120,6 @@
 </p>
 
 ---
-
-### 📺 Demo Videos
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
-    <img src="https://img.shields.io/badge/Watch%20the%20full%20showreel%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube showreel"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk">
-    <img src="https://img.youtube.com/vi/D22sO9HlWPY/mqdefault.jpg" width="45%" alt="Showreel thumbnail"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duyongoc&style=flat-square&color=blue" alt="profile views"/>

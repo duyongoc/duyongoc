@@ -30,49 +30,13 @@
 
 ---
 
-### ⭐ Featured — Netcode Battle
+### 📺 Demo Youtube Games
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=yqIDxTWt-Lk&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=36&ab_channel=duyongoc">
-    <img src="https://img.youtube.com/vi/yqIDxTWt-Lk/maxresdefault.jpg" width="88%" alt="Netcode Battle"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://webunity.github.io/webgl_netcode_battle/"><img src="https://img.shields.io/badge/Play%20WebGL-1f6feb?style=for-the-badge&logo=webgl&logoColor=white" alt="Play WebGL"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle"><img src="https://img.shields.io/badge/Play%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Play Android"/></a>
-  <a href="https://www.youtube.com/watch?v=yqIDxTWt-Lk&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=36&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo PC"/></a>
-  <a href="https://www.youtube.com/watch?v=60D5mnJLUG8&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=37&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
+  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=2&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Watch%20the%20full%20playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube playlist"/></a>
 </p>
 
 ---
-
-### 🖥️ Some personal MULTIPLAYER projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc">
-        <img src="https://img.youtube.com/vi/gSs0tuP4IL0/maxresdefault.jpg" width="100%" alt="Netcode Warrior"/>
-      </a>
-      <br/><b>Netcode Warrior</b><br/><br/>
-      <a href="https://webunity.github.io/webgl_netcode_warrior/"><img src="https://img.shields.io/badge/WebGL-1f6feb?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/></a>
-      <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.warrior"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
-      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo PC"/></a>
-      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://www.youtube.com/watch?v=_tXlH7wFrgY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=38&ab_channel=duyongoc">
-        <img src="https://img.youtube.com/vi/_tXlH7wFrgY/maxresdefault.jpg" width="100%" alt="Netcode Shooter2D"/>
-      </a>
-      <br/><b>Netcode Shooter2D</b><br/><br/>
-      <a href="https://webunity.github.io/webgl_netcode_shooter2d/"><img src="https://img.shields.io/badge/WebGL-1f6feb?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/></a>
-      <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
-      <a href="https://www.youtube.com/watch?v=_tXlH7wFrgY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=38&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo PC"/></a>
-      <a href="https://www.youtube.com/watch?v=ZWL3WxXeSFg&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=39&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
-    </td>
-  </tr>
-</table>
 
 ### 🎮 Some outstanding personal projects
 
@@ -108,16 +72,39 @@
   </tr>
 </table>
 
----
+### 🖥️ Some personal MULTIPLAYER projects
 
-### 📺 Demo Youtube Games
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=2&ab_channel=duyongoc">
-    <img src="https://img.youtube.com/vi/D22sO9HlWPY/maxresdefault.jpg" width="55%" alt="Demo Youtube Games"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=D22sO9HlWPY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=2&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Watch%20the%20full%20playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube playlist"/></a>
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://www.youtube.com/watch?v=yqIDxTWt-Lk&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=36&ab_channel=duyongoc">
+        <img src="https://img.youtube.com/vi/yqIDxTWt-Lk/maxresdefault.jpg" width="100%" alt="Netcode Battle"/>
+      </a>
+      <br/><b>Netcode Battle</b><br/><br/>
+      <a href="https://webunity.github.io/webgl_netcode_battle/"><img src="https://img.shields.io/badge/WebGL-1f6feb?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.battle"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
+      <a href="https://www.youtube.com/watch?v=yqIDxTWt-Lk&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=36&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo PC"/></a>
+      <a href="https://www.youtube.com/watch?v=60D5mnJLUG8&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=37&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc">
+        <img src="https://img.youtube.com/vi/gSs0tuP4IL0/maxresdefault.jpg" width="100%" alt="Netcode Warrior"/>
+      </a>
+      <br/><b>Netcode Warrior</b><br/><br/>
+      <a href="https://webunity.github.io/webgl_netcode_warrior/"><img src="https://img.shields.io/badge/WebGL-1f6feb?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.warrior"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
+      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo PC"/></a>
+      <a href="https://www.youtube.com/watch?v=gSs0tuP4IL0&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=40&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.youtube.com/watch?v=_tXlH7wFrgY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=38&ab_channel=duyongoc">
+        <img src="https://img.youtube.com/vi/_tXlH7wFrgY/maxresdefault.jpg" width="100%" alt="Netcode Shooter2D"/>
+      </a>
+      <br/><b>Netcode Shooter2D</b><br/><br/>
+      <a href="https://webunity.github.io/webgl_netcode_shooter2d/"><img src="https://img.shields.io/badge/WebGL-1f6feb?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/></a>
+      <a href="https://play.google.com/store/apps/details?id=com.duyongoc.netcode.shooter2d"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
+      <a href="https://www.youtube.com/watch?v=_tXlH7wFrgY&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=38&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20PC-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo PC"/></a>
+      <a href="https://www.youtube.com/watch?v=ZWL3WxXeSFg&list=PLClQCm2rPi2VSzjd5MXOX40sx4GdrVJHk&index=39&ab_channel=duyongoc"><img src="https://img.shields.io/badge/Demo%20Mobile-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Demo Mobile"/></a>
+    </td>
+  </tr>
+</table>

@@ -8,7 +8,6 @@
   <a href="https://duyongoc.github.io/profile/"><img src="https://img.shields.io/badge/Web%20Profile-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Profile"/></a>
   <a href="https://drive.google.com/file/d/1Dg0RwxwD1Mo2dcrAQM__pCDnZUCc6c6g/view?usp=sharing"><img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV"/></a>
   <a href="https://play.google.com/store/apps/developer?id=duy.ongoc"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
-  <a href="https://duyongoc.github.io/profile/#ar-game"><img src="https://img.shields.io/badge/Demo%20AR%20Games-6f42c1?style=for-the-badge&logo=unity&logoColor=white" alt="Demo AR Games"/></a>
 </p>
 
 ---
